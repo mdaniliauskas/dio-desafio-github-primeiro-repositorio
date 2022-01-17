@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="179c6150-f320-49c2-b74f-7fbfa0de322c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/Exercitando1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/Exercitando1_Nomes_Variáveis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/out/production/Exercitando1/br/com/dio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/out/production/Exercitando1/br/com/dio/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercitando1/src/br/com/dio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercitando1_Nomes_Variáveis/src/br/com/dio/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,5 +52,16 @@
       <updated>1642377340938</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
