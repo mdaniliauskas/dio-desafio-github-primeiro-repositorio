@@ -36,22 +36,9 @@ public class Main {
 
         System.out.println("b1 != b2 : " + (b1 != b2) + "\n");
 
-
         System.out.println("f1 == d2 :" + (f1 == d2));
         System.out.println("i1 >= d1 :" + (i1 >= d1));
         System.out.println("i2 <= l2 :" + (i2 <= l2));
         System.out.println("d1 == l2 :" + (d1 == l2) + "\n");
-
-
-
-
-
-
-
-
-
     }
-
-
-
 }
